@@ -1,1 +1,8 @@
+# Hidden Environment Files
+.env
+
+# System Files
+.DS_Store
+
+# Ignore all Node Modules
 **/node_modules
