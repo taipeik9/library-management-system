@@ -1,3 +1,3 @@
-# Vinyl Management System
+# Recipe Management System
 
-A vinyl management system built with the MERN Stack.
+A recipe management system built with the MERN Stack.
